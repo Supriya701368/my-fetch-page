@@ -1,0 +1,10 @@
+.footer{
+    background-color: darksalmon;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    position: fixed;
+    display: inline-block;
+    width: 100%;
+    bottom: 0;
+}
